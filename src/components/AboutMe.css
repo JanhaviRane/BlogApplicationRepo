@@ -1,0 +1,21 @@
+/* components/AboutMe.css */
+
+.about-me-container {
+    display: flex;
+  }
+  
+  .form-group {
+    background-color: aliceblue;
+    margin-right: 20px;
+    color: rgb(66, 7, 7);
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  .profile-image {
+    width: 280px;
+    margin-right: 10px;
+  }
+  
