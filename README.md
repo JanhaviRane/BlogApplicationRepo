@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Information
+## Information:
 
 First install all necessary libraries:
 Before that change directory using :cd command then,
